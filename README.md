@@ -47,7 +47,7 @@ A React-based frontend for displaying standardized reviews from multiple data so
 
         Create a .env file in the project root:
 
-        VITE_API_BASE_URL=http://localhost:4000/api
+        VITE_API_BASE_URL=http://theflexassessmentbackend-production.up.railway.app/api
 
 4.  Run the app
     npm run dev
